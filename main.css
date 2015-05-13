@@ -1,0 +1,30 @@
+.container {
+  z-index:
+}
+.box {
+  width: 214px;
+  height: 40px;
+  border: solid grey;
+  background: #544f4c;
+}
+button {
+  margin-bottom: 20px;
+  width: 40px;
+  background-color: #f3cc0c;
+}
+
+numbers {
+  display: inline;
+}
+
+.container {
+  width: 220px;
+  height: 200px;
+  background-color: #0cccf3;
+  margin-left: 100px;
+}
+
+.buttons {
+  padding-left: 22px;
+  padding-top: 25px;
+}
